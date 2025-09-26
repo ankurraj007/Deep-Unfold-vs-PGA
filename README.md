@@ -9,3 +9,4 @@ This repository contains code to compare Deep Unfolding and Projected Gradient A
 - Plot 4: Performance Improvement Over Iterations
 - Plot 5: Final Performance Comparison
 - Plot 6: Efficiency Comparison
+![Comparison Plot](DUNvsPGA.png)
